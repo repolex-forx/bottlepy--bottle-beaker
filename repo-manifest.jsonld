@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/bottlepy/bottle-beaker/commit/37ccd0f0dbe4d96f8fdf0b60bf411af8f29400ec",
       "git:hexsha": "37ccd0f0dbe4d96f8fdf0b60bf411af8f29400ec",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "0.1.3"
     },
     {
